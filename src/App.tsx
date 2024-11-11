@@ -13,15 +13,9 @@ function App() {
         <div><span className="font-bold">Game Development</span> → C# / Godot</div>
       </div>
       <div>
-        <div><a href="https://github.com/haydn-smith" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">🔗</span>GitHub</a></div>
-        <div><a href="https://www.linkedin.com/in/haydn-smith/" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">🔗</span>LinkedIn</a></div>
-        <div><a href="https://badmojoverybad.itch.io/" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">🔗</span>Itch.io</a></div>
-      </div>
-
-      <div>
-        <div>Blog:</div>
-        <div><a href="https://github.com/haydn-smith" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer">[2025/01/11] You don't need a physics engine.</a></div>
-        <div><a href="https://github.com/haydn-smith" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer">[2025/02/16] The engineering mindset.</a></div>
+        <div><a href="mailto:hello@haydn.town" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">💌</span>hello@haydn.town</a></div>
+        <div><a href="https://github.com/haydn-smith" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">👾</span>github.com/haydn-smith</a></div>
+        <div><a href="https://www.linkedin.com/in/haydn-smith/" target="_blank" className="hover:text-dracula-cyan transition" rel="noreferrer"><span className="pr-3">🌐</span>LinkedIn</a></div>
       </div>
     </div>
   );
